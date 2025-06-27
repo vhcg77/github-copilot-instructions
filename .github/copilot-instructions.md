@@ -37,7 +37,7 @@ This project requires specific VS Code configuration to function properly. The `
 - **`github.copilot.chat.codeGeneration.useInstructionFiles: true`** - Enables the hierarchical instruction system
 - **Task-specific instructions** - Automatic application of role/task-specific guidelines
 - **Prompt files support** - Access to `.github/instructions/prompts/` directory
-- **Advanced debugging** - Uses GPT-4o engine for enhanced capabilities
+- **Advanced debugging** - Uses Claude Sonnet 4 engine for enhanced capabilities
 
 ### **Python & Data Science Settings**
 - **Strict type checking** - Enforces type hint requirements
@@ -487,7 +487,7 @@ This instruction set requires proper VS Code configuration. The project includes
    - Task-specific instruction mapping for test generation, commit messages, code generation, and pull requests
    - Prompt files locations configuration for all instruction directories
    - Security exclusions for sensitive data protection
-   - Advanced Copilot settings with GPT-4o engine
+   - Advanced Copilot settings with Claude Sonnet 4 engine
 
 3. **Run Validation Script**: `python .github/instructions/validate_instructions.py`
 
