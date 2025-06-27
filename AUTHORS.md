@@ -2,21 +2,23 @@
 
 ## Creator and Main Contributor
 
-**Victor Hugo Castro Gonzalez** ([@vhcg77](https://github.com/vhcg77))
+**Victor Hugo Calle Gil** ([@vhcg77](https://github.com/vhcg77))
 - 📧 Email: vhcg77@gmail.com
-- 🏢 Role: Senior Data Scientist & System Architect
-- 💡 Contribution: Complete system design, implementation, and validation framework
+- 🏢 Role: Data Scientist & Machine Learning Engineer
+- 💡 Contribution: Initial system design, implementation, and experimental validation framework
 
 ## Project Overview
 
-This Advanced Hierarchical GitHub Copilot Instructions System was designed and developed to revolutionize developer productivity through intelligent code generation patterns.
+This is an experimental hierarchical instruction system for GitHub Copilot, designed to explore ways of improving AI-assisted development through structured instruction patterns.
 
-### Key Achievements
-- 🏆 **100% Validation Score** - Comprehensive quality assurance system
-- 🎭 **9 Specialized Roles** - Complete coverage of development domains
-- 📋 **15 Task Types** - Specific instructions for every development scenario
-- 🚀 **Enterprise-Ready** - Production-quality code generation patterns
-- 🛡️ **Security-First** - Built-in sensitive data protection
+### Current Status
+- 🧪 **Experimental Phase** - Testing effectiveness of hierarchical instructions
+- 🎭 **9 Role Templates** - Covering various development domains
+- 📋 **15 Task Categories** - Specific instruction patterns for different scenarios
+- � **Validation Framework** - Automated quality checking system
+- 🛡️ **Security Patterns** - Basic sensitive data protection guidelines
+
+**Note**: This project is in active experimentation. Results may vary, and effectiveness is still being evaluated.
 
 ## Contributing
 

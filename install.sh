@@ -30,7 +30,7 @@ echo "✅ Prerequisites check passed"
 # Clone the repository to temp directory
 TEMP_DIR=$(mktemp -d)
 echo "📥 Downloading GitHub Copilot Instructions..."
-git clone https://github.com/your-username/github-copilot-instructions.git "$TEMP_DIR" --quiet
+git clone https://github.com/vhcg77/github-copilot-instructions.git "$TEMP_DIR" --quiet
 
 # Check if we're in a git repository
 if [ ! -d ".git" ]; then
@@ -84,6 +84,6 @@ echo "2. 📝 Open a Python file and type a comment"
 echo "3. ✨ Watch Copilot generate enterprise-ready code!"
 echo ""
 echo "📖 Full documentation: README.md"
-echo "🆘 Support: https://github.com/your-username/github-copilot-instructions/issues"
+echo "🆘 Support: https://github.com/vhcg77/github-copilot-instructions/issues"
 echo ""
-echo "⭐ Star the repo if this helped you: https://github.com/your-username/github-copilot-instructions"
+echo "⭐ Star the repo if this helped you: https://github.com/vhcg77/github-copilot-instructions"

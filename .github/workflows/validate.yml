@@ -2,37 +2,37 @@ name: Validate Copilot Instructions
 
 on:
   push:
-    branches: [ main, develop ]
+    branches: [main, develop]
   pull_request:
-    branches: [ main ]
+    branches: [main]
 
 jobs:
   validate:
     runs-on: ubuntu-latest
-    
+
     steps:
-    - uses: actions/checkout@v4
-    
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.9'
-    
-    - name: Run Copilot Best Practices Validator
-      run: |
-        python .github/instructions/copilot_best_practices_validator.py .
-        
-    - name: Check validation score
-      run: |
-        # Ensure score is at least 95%
-        python -c "
-        import json
-        with open('.github/instructions/copilot_best_practices_report_*.json') as f:
-            data = json.load(f)
-            score = data['overall_score']
-            if score < 95.0:
-                print(f'❌ Validation score {score}% is below 95% threshold')
-                exit(1)
-            else:
-                print(f'✅ Validation score {score}% meets quality standards')
-        "
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.9"
+
+      - name: Run Copilot Best Practices Validator
+        run: |
+          python .github/instructions/copilot_best_practices_validator.py .
+
+      - name: Check validation score
+        run: |
+          # Ensure score is at least 95%
+          python -c "
+          import json
+          with open('.github/instructions/copilot_best_practices_report_*.json') as f:
+              data = json.load(f)
+              score = data['overall_score']
+              if score < 95.0:
+                  print(f'❌ Validation score {score}% is below 95% threshold')
+                  exit(1)
+              else:
+                  print(f'✅ Validation score {score}% meets quality standards')
+          "
