@@ -1,0 +1,27 @@
+# Research: Task: UI Development
+
+Research specifically the UI Development task in GitHub Copilot:
+
+REQUIRED ANALYSIS:
+1. BEST PRACTICES for ui-development
+   - Optimal instruction structure
+   - Most effective keywords
+   - Successful configuration examples
+   - Prompt engineering patterns
+   - Specific quality metrics
+
+2. ANTI-PATTERNS for ui-development
+   - Common implementation errors
+   - Counterproductive configurations
+   - Frequently failing patterns
+   - Performance issues
+
+3. RECOMMENDATIONS for ui-development
+   - Advanced optimizations
+   - Workflow integration
+   - Complementary tools
+   - Validation processes
+
+CONTEXT: Data science in GCP
+FOCUS: Specific ui-development task with maximum effectiveness
+            

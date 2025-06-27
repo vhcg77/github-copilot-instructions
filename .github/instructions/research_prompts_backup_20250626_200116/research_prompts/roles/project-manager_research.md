@@ -1,0 +1,29 @@
+# Investigación: Rol: Project Manager
+
+
+Investiga específicamente el rol de Project Manager en GitHub Copilot:
+
+ANÁLISIS REQUERIDO:
+1. MEJORES PRÁCTICAS (5 específicas)
+   - Configuraciones VS Code optimizadas para project-manager
+   - Patterns de instrucciones más efectivos
+   - Integración con herramientas del rol
+   - Ejemplos de prompts de alto rendimiento
+   - Métricas de productividad específicas
+
+2. ANTI-PATTERNS CRÍTICOS (5 críticos)
+   - Errores comunes en instrucciones para project-manager
+   - Configuraciones problemáticas
+   - Patterns que reducen efectividad
+   - Impacto negativo documentado
+
+3. RECOMENDACIONES AVANZADAS (5 avanzadas)
+   - Optimizaciones específicas del rol
+   - Integraciones con stack tecnológico
+   - Workflows recomendados
+   - Estrategias de adopción
+
+CONTEXTO: Proyecto de ciencia de datos en GCP, análisis de inventario
+STACK: Python, BigQuery, Vertex AI, Terraform, Jupyter
+OBJETIVO: Maximizar productividad del rol project-manager
+            
