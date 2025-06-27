@@ -19,7 +19,7 @@
 ### **Option 1: Direct Download**
 ```bash
 # Clone and copy to your project
-git clone https://github.com/your-username/github-copilot-instructions.git
+git clone https://github.com/vhcg77/github-copilot-instructions.git
 cd your-existing-project
 cp -r ../github-copilot-instructions/.github/ .
 cp -r ../github-copilot-instructions/.vscode/ .
@@ -261,9 +261,11 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 **⚡ Transform your coding experience today!**
 
-[![Use This Template](https://img.shields.io/badge/Use%20This%20Template-28a745?style=for-the-badge&logo=github)](https://github.com/your-username/github-copilot-instructions/generate)
-[![Download ZIP](https://img.shields.io/badge/Download%20ZIP-007ACC?style=for-the-badge&logo=download)](https://github.com/your-username/github-copilot-instructions/archive/refs/heads/main.zip)
+[![Use This Template](https://img.shields.io/badge/Use%20This%20Template-28a745?style=for-the-badge&logo=github)](https://github.com/vhcg77/github-copilot-instructions/generate)
+[![Download ZIP](https://img.shields.io/badge/Download%20ZIP-007ACC?style=for-the-badge&logo=download)](https://github.com/vhcg77/github-copilot-instructions/archive/refs/heads/main.zip)
 
 **⭐ Star this repository if it helps you code faster and better!**
+
+**Created with ❤️ by [vhcg77](https://github.com/vhcg77)**
 
 </div>

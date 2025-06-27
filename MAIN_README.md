@@ -4,7 +4,7 @@
 [![Best Practices](https://img.shields.io/badge/Best%20Practices-100%25-brightgreen)](https://docs.github.com/en/copilot)
 [![Data Science](https://img.shields.io/badge/Data%20Science-Ready-orange)](https://www.python.org/)
 [![GCP](https://img.shields.io/badge/GCP-Optimized-4285F4?logo=google-cloud)](https://cloud.google.com/)
-[![Validation](https://github.com/your-username/github-copilot-instructions/workflows/Validate%20Copilot%20Instructions/badge.svg)](https://github.com/your-username/github-copilot-instructions/actions)
+[![Validation](https://github.com/vhcg77/github-copilot-instructions/workflows/Validate%20Copilot%20Instructions/badge.svg)](https://github.com/vhcg77/github-copilot-instructions/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > **🚀 The most sophisticated, professionally validated hierarchical instruction system for GitHub Copilot. Transform your coding productivity with enterprise-ready patterns, comprehensive validation, and specialized expertise across Data Science, MLOps, and Cloud Computing.**
@@ -42,7 +42,7 @@ This repository contains a **professionally validated, enterprise-ready instruct
 ### **Option 1: Direct Clone**
 ```bash
 # Clone to your project
-git clone https://github.com/your-username/github-copilot-instructions.git
+git clone https://github.com/vhcg77/github-copilot-instructions.git
 cd your-existing-project
 cp -r ../github-copilot-instructions/.github/ .
 cp -r ../github-copilot-instructions/.vscode/ .
@@ -53,7 +53,7 @@ python .github/instructions/copilot_best_practices_validator.py
 ```
 
 ### **Option 2: Manual Setup**
-1. **Download** [latest release](https://github.com/your-username/github-copilot-instructions/releases)
+1. **Download** [latest release](https://github.com/vhcg77/github-copilot-instructions/releases)
 2. **Copy** `.github/` and `.vscode/` to your project root
 3. **Install** required VS Code extensions:
    - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
@@ -250,16 +250,16 @@ Enterprise Standards: ✅ VALIDATED
 
 ### **Installation Options**
 
-#### **🚀 Quick Start (Recommended)**
+#### **Quick Start (Recommended)**
 ```bash
 # Clone and set up in one command
-curl -fsSL https://raw.githubusercontent.com/your-username/github-copilot-instructions/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/vhcg77/github-copilot-instructions/main/install.sh | bash
 ```
 
 #### **📦 Manual Installation**
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/github-copilot-instructions.git
+git clone https://github.com/vhcg77/github-copilot-instructions.git
 cd your-project
 
 # 2. Copy system files
@@ -325,12 +325,12 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 ### **How to Contribute**
 1. **Fork** the repository
 2. **Create** a feature branch (`git checkout -b feature/amazing-feature`)
-3. **Make** your changes following our coding standards
-4. **Run** the validator: `python .github/instructions/copilot_best_practices_validator.py`
-5. **Ensure** score remains at 95%+
-6. **Commit** your changes (`git commit -m 'Add amazing feature'`)
-7. **Push** to the branch (`git push origin feature/amazing-feature`)
-8. **Open** a Pull Request
+4. **Make** your changes following our coding standards
+5. **Run** the validator: `python .github/instructions/copilot_best_practices_validator.py`
+6. **Ensure** score remains at 95%+
+7. **Commit** your changes (`git commit -m 'Add amazing feature'`)
+8. **Push** to the branch (`git push origin feature/amazing-feature`)
+9. **Open** a Pull Request
 
 ### **Contribution Areas**
 - 🎭 **New roles** (DevOps Engineer, Security Specialist, etc.)
@@ -343,9 +343,10 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 ## 📞 **Support**
 
 - 📖 **Documentation**: [Complete docs](REPOSITORY_README.md)
-- 🐛 **Bug Reports**: [Issues](https://github.com/your-username/github-copilot-instructions/issues)
-- 💡 **Feature Requests**: [Discussions](https://github.com/your-username/github-copilot-instructions/discussions)
-- 💬 **Community**: [Discord](https://discord.gg/your-invite) (optional)
+- 🐛 **Bug Reports**: [Issues](https://github.com/vhcg77/github-copilot-instructions/issues)
+- 💡 **Feature Requests**: [Discussions](https://github.com/vhcg77/github-copilot-instructions/discussions)
+- � **Contact**: [vhcg77@gmail.com](mailto:vhcg77@gmail.com)
+- 👨‍💻 **Author**: [vhcg77](https://github.com/vhcg77)
 
 ## 📜 **License**
 
@@ -358,6 +359,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Python Community** - For the incredible ecosystem and best practices
 - **Contributors** - For making this system better every day
 
+**Created by:** [vhcg77](https://github.com/vhcg77) | **Contact:** [vhcg77@gmail.com](mailto:vhcg77@gmail.com)
+
 ## 🔗 **Related Projects**
 
 - [GitHub Copilot Documentation](https://docs.github.com/en/copilot)
@@ -368,4 +371,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ⭐ **Star this repository** if it supercharged your coding productivity!
 
-**Made with ❤️ for developers who want to code at the speed of thought**
+**Made with ❤️ by [vhcg77](https://github.com/vhcg77) for developers who want to code at the speed of thought**
